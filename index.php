@@ -14,7 +14,7 @@ and open the template in the editor.
         // put your code here
         
         echo  "My name is JOE";
-        echo "I think my name is JOE TBA";
+        echo "I think my name is JOE A";
         ?>
     </body>
 </html>
